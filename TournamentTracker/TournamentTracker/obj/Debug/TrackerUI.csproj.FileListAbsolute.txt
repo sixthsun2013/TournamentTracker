@@ -7,3 +7,7 @@ C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTra
 C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TrackerUI.csproj.GenerateResource.cache
 C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.exe
 C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.pdb
+C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.CreatePrizeForm.resources
+C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.CreateTeamForm.resources
+C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.CreateTournamentForm.resources
+C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.TournamentDashboardForm.resources
