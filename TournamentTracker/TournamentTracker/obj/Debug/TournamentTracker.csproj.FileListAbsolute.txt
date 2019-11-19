@@ -1,0 +1,8 @@
+C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\bin\Debug\TournamentTracker.exe.config
+C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\bin\Debug\TournamentTracker.exe
+C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\bin\Debug\TournamentTracker.pdb
+C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.csprojAssemblyReference.cache
+C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.Properties.Resources.resources
+C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.csproj.GenerateResource.cache
+C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.exe
+C:\Users\SysAdmin\source\repos\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TournamentTracker.pdb
